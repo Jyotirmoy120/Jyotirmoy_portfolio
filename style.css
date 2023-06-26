@@ -40,10 +40,12 @@ p {
 	text-transform: uppercase;
 	letter-spacing: 0.2rem;
 	text-align: center;
+
 }
 .section-title span {
 	color: crimson;
 }
+
 
 .cta {
 	display: inline-block;
@@ -200,7 +202,7 @@ p {
 
 /* Hero Section */
 #hero {
-	background-image: url(raja6.png);
+	background-image: url(raja8.png);
 	background-size: cover;
 	background-position: top center;
 	position: relative;
